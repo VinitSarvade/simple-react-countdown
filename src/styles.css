@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  padding: 12px 16px;
+  width: 100px;
+  background-color: #cdcdcd;
+  border: thin solid;
+  outline: none;
+  border-radius: 2px;
+}
